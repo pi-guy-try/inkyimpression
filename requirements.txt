@@ -1,0 +1,3 @@
+Pillow
+smbprotocol
+git+https://github.com/pimoroni/inky.git
